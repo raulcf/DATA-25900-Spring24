@@ -16,9 +16,9 @@ Through the combination of these four, students who complete the course will lea
 
 **Office Hours:** Note office hours are thematic. Ensure you come to the office hours appropriate for your need.
 
-Lecture/Readings/General Interest: Raul [Thursdays 1pm - 2pm]
-Programming Assignments: Steven, Victor, Satadisha, Amy [Monday 3:30pm to 4:30pm]
-Projects: Bill, Will [TBD]
+- Lecture/Readings/General Interest: Raul [Thursdays 1pm - 2pm]
+- Programming Assignments: Steven, Victor, Satadisha, Amy [Monday 3:30pm to 4:30pm]
+- Projects: Bill, Will [TBD]
 
 **Canvas Site:** Go [here](https://canvas.uchicago.edu/courses/56232). We use Canvas for announcements. You use canvas to submit your reading assignments and project weekly reports.
 
