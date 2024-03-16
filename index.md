@@ -14,11 +14,15 @@ Through the combination of these four, students who complete the course will lea
 
 **Prerequisites:** CMSC/DATA 11900
 
-**Office Hours:** TBD
+**Office Hours:** Note office hours are thematic. Ensure you come to the office hours appropriate for your need.
 
-**Canvas Site:** Go [here](https://canvas.uchicago.edu/courses/56232). We use Canvas for announcements.
+Lecture/Readings/General Interest: Raul [Thursdays 1pm - 2pm]
+Programming Assignments: Steven, Victor, Satadisha, Amy [Monday 3:30pm to 4:30pm]
+Projects: Bill, Will [TBD]
 
-**Offline/Asynchronous discussion:** We will use [Ed](https://edstem.org/us/courses/37906) for offline discussion and for announcements. See the expectations on how to use Ed below.
+**Canvas Site:** Go [here](https://canvas.uchicago.edu/courses/56232). We use Canvas for announcements. You use canvas to submit your reading assignments and project weekly reports.
+
+**Offline/Asynchronous discussion:** We will use [Ed](https://edstem.org/us/courses/57009) for offline discussion and for announcements. See the expectations on how to use Ed below.
  
 ### Schedule
 
@@ -28,10 +32,10 @@ The schedule includes a brief description of lecture topics, and it includes rea
 
 ### Grading
 
-- **Reading Responses (7 in total. 2% each. Total 14%)** We will assign readings each week. At the end of the week we will ask a question about the readings and ask you to provide a brief answer. There is a dedicated discussion section during the quarter where we will discuss the most interesting reading responses. There is a strict no-extension policy. *We plan to share your answers with other students and instructors in the class. Let us know if you have concerns about this. No answer will be released in future courses or with people external to the class.*
+- **Reading Responses (7 in total. 2% each. Total 14%)** We will assign readings each week. At the end of the week (usually the Sunday before the assignment is due), we will ask a question about the readings and ask you to provide a brief answer. There are two dedicated discussion sections during the quarter where we will discuss the most interesting reading responses. There is a strict no-extension policy. *We plan to share your answers with other students and instructors in the class. Let us know if you have concerns about this. No answer will be released in future courses or with people external to the class.*
 - **Programming Assignment (5 in total, 33%).** The programming assignment is an important component of your grade. You work on this individually, but you can discuss high-level ideas with other classmates. Your grade is based on the deliverables and a quiz delivered via gradescope. There is a strict no-extension policy.
 - **Quarter-Long Project (50%)** The most important component of your grade. You will engage in a quarter-long group project (maximum of 2 people). You will deliver a short report and present your work to the class at the end of the quarter. The project will be graded with respect to: i) weekly progress reports ii) peer assessment iii) faculty committee assessment iv) written report v) presentation vi) quality of content. 
-- **Class Participation (3%).** A small part of your grade comes from participation. If your grade ends up on a border between two grades (e.g. B+ and A-) this can sway your grade. Participation can be earned in several ways: i) being active on Ed, i.e., answering and commenting on questions (asking questions on Campuswire does not count) ii) actively engaging in discussion and asking questions in class.
+- **Class Participation (3%).** A small part of your grade comes from participation. If your grade ends up on a border between two grades (e.g. B+ and A-) this can sway your grade. Participation can be earned in several ways: i) being active on Ed, i.e., answering and commenting on questions (asking questions on Ed does not count) ii) actively engaging in discussion and asking questions in class.
 
 ### How to ask questions and seek help
 
