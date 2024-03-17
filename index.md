@@ -8,7 +8,7 @@ Through the combination of these four, students who complete the course will lea
 
 **Instructor:** [Raul Castro Fernandez](https://raulcastrofernandez.com) (raulcf@uchicago.edu)
 
-**Staff:** Steven Xia (TA) (stevenxia@uchicago.edu); Victor Brown (TA) (victorfbrown@uchicago.edu); Satadisha Saha Bhowmick (TA)(ssahabhowmick@uchicago.edu); Will Trimble (TA) (wltrimbl@uchicago.edu); Bill Trok (TA) (btrok@uchicago.edu); Amy Nussbaum (TA)(anussbaum@uchicago.edu); Su Karaca (sudogakaraca@uchicago.edu); Memphis Cutchlow (mcutchlow@uchicago.edu); Diana Chu (dianachu@uchicago.edu);
+**Staff:** Steven Xia (TA) (stevenxia@uchicago.edu); Victor Brown (TA) (victorfbrown@uchicago.edu); Satadisha Saha Bhowmick (TA)(ssahabhowmick@uchicago.edu); Will Trimble (TA) (wltrimbl@uchicago.edu); Bill Trok (TA) (btrok@uchicago.edu); Amy Nussbaum (TA)(anussbaum@uchicago.edu); Su Karaca (Grader) (sudogakaraca@uchicago.edu); Memphis Cutchlow (Grader) (mcutchlow@uchicago.edu); Diana Chu (Grader)(dianachu@uchicago.edu);
 
 **Lectures:** Tuesday and Thursday 3:30pm–4:50pm (Central Time), K 120 (Double check the location as it may change before the start of the quarter)
 
