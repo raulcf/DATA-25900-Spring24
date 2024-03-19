@@ -18,7 +18,7 @@ Through the combination of these four, students who complete the course will lea
 
 - Lecture/Readings/General Interest: Raul [Thursdays 1pm - 2pm]
 - Programming Assignments: Steven, Victor, Satadisha, Amy [Monday 3:30pm to 4:30pm]
-- Projects: Bill, Will [TBD]
+- Projects: Bill [Monday 3pm-4pm, Thursday 10am-11am], Will [Wednesday 1:20pm-2:20pm, Friday 2:30pm-3:30pm]
 
 **Canvas Site:** Go [here](https://canvas.uchicago.edu/courses/56232). We use Canvas for announcements. You use canvas to submit your reading assignments and project weekly reports.
 
