@@ -16,9 +16,9 @@ Through the combination of these four, students who complete the course will lea
 
 **Office Hours:** Note office hours are thematic. Ensure you come to the office hours appropriate for your need.
 
-- Lecture/Readings/General Interest: Raul [Thursdays 1pm - 2pm]
+- Lecture/Readings/General Interest: Raul [Thursdays 1pm - 2pm, JCL 245]
 - Programming Assignments: Steven, Victor, Satadisha, Amy [Monday 3:30pm to 4:30pm]
-- Projects: Bill [Monday 3pm-4pm, Thursday 10am-11am], Will [Wednesday 2:30pm-3:30pm, Friday 2:30pm-3:30pm]
+- Projects: Bill [Monday 3pm-4pm, Thursday 10am-11am], Will [Wednesday 2:30pm-3:30pm, Friday 2:30pm-3:30pm, Ryerson 257B]
 
 **Canvas Site:** Go [here](https://canvas.uchicago.edu/courses/56232). We use Canvas for announcements. You use canvas to submit your reading assignments and project weekly reports.
 
