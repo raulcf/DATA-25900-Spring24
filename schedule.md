@@ -27,6 +27,7 @@ Legend:
 |    13    | 04/30 | Introduction to Privacy 2/2       | data anonymization and deanonymization, k-anonimity, attacks, indigenous data sovereignty | <!--***Reading 6***: Shoshana Zuboff. [Big other: surveillance capitalism and the prospects of an information civilization](https://journals.sagepub.com/doi/pdf/10.1057/jit.2015.5). *Journal of Information Technology* 2015.     -->    |    *R6 assigned*    |
 |    14    | 05/02 | Statistical Data Privacy   |              differential privacy, sensitivity               |          |    *PA4 assigned*       |
 |    15    | 05/07 | Data Flows, Lifecyles, Data Markets    |     provenance, right to be forgotten, data portability, data brokers, data ownership, value of data, data unions, cooperatives, strikes      |   <!-- ***Reading 7*** . Edith Ramirez, Julie Brill, Maureen K. Ohlhausen, Joshua D. Wright, Terrell McSweeny [Data Brokers: A call for transparency and accountability](https://www.ftc.gov/system/files/documents/reports/data-brokers-call-transparency-accountability-report-federal-trade-commission-may-2014/140527databrokerreport.pdf). *Federal Trade Commission*, May, 2014 (Read Executive Summary and then Section 4 "Types of Products") -->  |     *R6 due* *R7 assigned* *SR due*  |
-|    16    | 05/09 | Discussion 3/3    |  |          |   *P due*       |
+|    16    | 05/09 | Discussion 3/3    |  |          |          |
 |    17    | 05/14 | Summary of the quarter via a case study of LLMs     |       |          |           *R7 due*  *PA4 due*       |
 |    18    | 05/16 | AMA  |       |          |             |
+|          | 05/17 | No class | | | *P due* | 
